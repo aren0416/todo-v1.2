@@ -2,10 +2,10 @@
 
 - [x] login
 - [x] signup
-- [ ] useUser
-- [ ] authrization
+- [x] useUser
+- [x] authrization
+- [x] seeTodo
 - [ ] home
-- [ ] seeTodo
 - [ ] createTodo
 - [ ] updateTodo
 - [ ] deleteTodo
